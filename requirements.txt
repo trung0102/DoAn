@@ -1,2 +1,5 @@
 flwr
 torch
+matplotlib
+seaborn
+scikit-learn
